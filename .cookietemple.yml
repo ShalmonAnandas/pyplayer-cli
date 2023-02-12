@@ -1,0 +1,19 @@
+cookietemple_version: '1.4.1 # <<COOKIETEMPLE_NO_BUMP>>'
+domain: cli
+language: python
+project_slug: pyplayer-cli
+project_slug_no_hyphen: pyplayer_cli
+template_version: '2.1.1 # <<COOKIETEMPLE_NO_BUMP>>'
+template_handle: cli-python
+github_username: ShalmonAnandas
+creator_github_username: ShalmonAnandas
+is_github_repo: true
+is_repo_private: false
+is_github_orga: false
+full_name: Shalmon Anandas
+email: nashalanandas@gmail.com
+project_name: pyplayer-cli
+project_short_description: ' Plays Movies / TV Shows in your browser in <50 lines
+  of code.'
+version: 1.1.0
+license: MIT
